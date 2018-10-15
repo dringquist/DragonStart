@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.awt.Font;
 /**
  * Write a description of class Dragon here.
- *
+ * so guys we did it
  * @author (your name)
  * @version (a version number or a date)
  */
